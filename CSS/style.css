@@ -1,7 +1,26 @@
 * {
+    /* border: 1px solid red; */
     margin: 0;
+    font-size: 28px;
 }
 
 #head {
     margin: 30px;
+}
+#fotoEdgard {
+    float: left;
+    margin: 30px 10px;
+}
+#description {
+    font-style: italic;
+    font-size: 1.3em;
+    text-align: center;
+    margin: 10% 20% 0 2% ;
+    float: right;
+    width: 45%;
+    /* background-color: blue; */
+}
+#mainSkills {
+    clear: both;
+    margin-bottom: 50px;
 }
