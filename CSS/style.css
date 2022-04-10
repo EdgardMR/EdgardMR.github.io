@@ -1,9 +1,14 @@
 * {
-    /* border: 1px solid red; */
+    border: 1px solid red;
     margin: 0;
     font-size: 28px;
 }
-
+h3 {
+    margin-bottom: 50px;
+}
+body {
+    background-color: #999164 ;
+}
 #head {
     margin: 30px;
 }
